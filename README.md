@@ -6,22 +6,8 @@
 - 🎓 &nbsp; Master Student of computer engineering In Kharazmi University
 - 🌱 &nbsp; Learning Next.js...
 
-<h2>🔧 &nbsp; Tech Stack</h2>
-
-
-<h2>Hi There! I'm Shayan Khazaei 🖐</h2>
-
-<h3>👨‍💻 &nbsp; About Me</h3>
-
-- 🤔 &nbsp; Front End Developer
-- 🎓 &nbsp; Master Student of computer engineering In Kharazmi University
-- 🌱 &nbsp; Learning Next.js
-
 <h2>🔧 &nbsp; My Skills</h2>
 
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -37,8 +23,11 @@
   ![Redux](https://img.shields.io/badge/redux-333333.svg?style=flat&logo=redux&logoColor=white)
   ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=react%20query&logoColor=white) 
 
-  
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br />
+
