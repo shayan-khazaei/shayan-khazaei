@@ -6,6 +6,8 @@
 - 🎓 &nbsp; Master Student of computer engineering In Kharazmi University
 - 🌱 &nbsp; Learning Next.js...
 
+<br />
+
 <h2>🔧 &nbsp; My Skills</h2>
 
 
@@ -29,6 +31,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+<br />
 
 <h2>📞 &nbsp; Contact Me </h2>
 
