@@ -31,3 +31,9 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br />
 
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/sabzlearn-ir">
+  <img src="https://github-readme-stats.vercel.app/api?username=shayan-khazaei&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-khazaei" />
+</a>
