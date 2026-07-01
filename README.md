@@ -40,8 +40,8 @@
   <a href="https://t.me/shayan_kze16/">
     <img src="https://img.shields.io/badge/Telegram-@shayan_kze16-blue?style=flat&logo=telegram" />
   </a>
-    <a href="mailto:shayankhazaie@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-shayankhazaie50@gmail.com-green?style=flat&logo=gmail" />
+    <a href="mailto:shayankhazaie50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shayankhazaie50@gmail.com-green?style=flat&logo=gmail" />
   </a>
 </p>
 
