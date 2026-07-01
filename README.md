@@ -31,9 +31,15 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br />
 
-<h2>⚡️ &nbsp; Github Stats</h2>
+<h2>📞 &nbsp; Connct Me </h2>
 
-<a href="https://github.com/sabzlearn-ir">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayan-khazaei&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-khazaei" />
-</a>
+<p align="center">
+  <a href="https://instagram.com/shayan_kze/">
+    <img src="https://img.shields.io/badge/Instagram-@shayan_kze-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/shayan_kze16/">
+    <img src="https://img.shields.io/badge/Telegram-@shayan_kze16-blue?style=flat&logo=telegram" />
+  </a>
+</p>
+
+<br />
