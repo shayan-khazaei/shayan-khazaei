@@ -29,9 +29,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-<br />
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Contact Me </h2>
 
 <p align="center">
   <a href="https://instagram.com/shayan_kze/">
